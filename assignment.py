@@ -10,4 +10,4 @@ try:
         print(f"{number} is an Odd number.")
 
 except ValueError:
-    print("That's not a valid integer! Please enter a whole number.")
+    print("That's not as valid integer! Please enter a whole number.")
