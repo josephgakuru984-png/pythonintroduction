@@ -19,6 +19,7 @@ def multiply():
 multiply()
 
  #parameters/variables
+ #arguments
 def multiply(X,Y):
     print(X * Y)
 
